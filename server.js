@@ -1,4 +1,4 @@
-const express = required('express');
+const express = require('express');
 const serverStatic = require('server-static');
 const history = require('connect-history-api-fallback');
 const enforce = require('express-sslify');
